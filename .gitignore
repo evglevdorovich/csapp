@@ -1,0 +1,15 @@
+# C compiler output
+*.o
+*.a
+*.so
+*.out
+
+# Local executables built from the exercises
+/inf
+/show-bytes
+/integers-representation/arith
+/integers-representation/div16
+/integers-representation/find-val
+/integers-representation/strlonger
+/integers-representation/tadd
+/integers-representation/unsigned_sum_elements
